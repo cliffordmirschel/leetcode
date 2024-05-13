@@ -6,6 +6,3 @@ var debounce = function (fn, t) {
     }
 };
 
-/**
- * const log = debounce(console.log, 100);
- * log('Hello'); // cancelled

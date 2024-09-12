@@ -7,6 +7,7 @@ class Solution:
             if letter not in s_count or t_count[letter] > s_count[letter]:
                 return letter
             
+            
 # Optimized Solution
 
 class Solution:

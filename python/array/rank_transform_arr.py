@@ -11,3 +11,4 @@ class Solution:
             result.append(rank_dict[num])
         
         return result
+    
